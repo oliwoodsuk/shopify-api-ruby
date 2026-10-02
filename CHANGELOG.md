@@ -2,6 +2,7 @@
 
 Note: For changes to the API, see https://shopify.dev/changelog?filter=api
 ## Unreleased
+- Add 2026-10 API version (REST resources copied from 2026-04)
 
 ## 16.2.0 (2026-04-13)
 - [#1442](https://github.com/Shopify/shopify-api-ruby/pull/1442) Add support for 2026-04 API version
